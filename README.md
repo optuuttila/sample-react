@@ -1,3 +1,8 @@
+# sample-react-rbac
+
+This project is a sample that demonstrates how RBAC (Role Based Access Control) can be implemented.
+Original code from [Auth0 RBAC](https://auth0.com/blog/role-based-access-control-rbac-and-react-apps/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
